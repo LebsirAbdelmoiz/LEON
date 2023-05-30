@@ -346,6 +346,9 @@ margin: 30px 0;
     .contact .info p {
         font-size: 25px;
     }
+    .contact .info a {
+        font-size: 20px;
+    }
 }
 .footer {
     background-color: #2c4755;
